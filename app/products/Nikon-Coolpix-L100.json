@@ -1,0 +1,33 @@
+{
+
+    "description": "The COOLPIX L100 features the compositional freedom of a 15x Zoom-NIKKOR lens. Covering 28mm wide-angle to 420mm super-telephoto shooting, the lens’ broad focal range can readily handle everything from landscapes and group shots, to tight close-ups and shots taken from a distance that allows shooting subjects as they move or play naturally. The COOLPIX L100 teams its extended reach with solid imaging power. 10.0 effective megapixels of sharp resolution is teamed with an optimized processing system to faithfully reproduce fine details and subtle tones and deliver quick response. Furthermore, with new Sport Continuous Mode, as many as 30 consecutive pictures can be taken at the rapid speed of 13 fps*2.",
+    "images": [
+        "images/products/Nikon-Coolpix-L100.0.jpg",
+        "images/products/Nikon-Coolpix-L100.1.jpg",
+        "images/products/Nikon-Coolpix-L100.2.jpg",
+        "images/products/Nikon-Coolpix-L100.3.jpg",
+        "images/products/Nikon-Coolpix-L100.4.jpg"
+    ],
+    "id": "Nikon-Coolpix-L100",
+    "name": "Nikon Coolpix L100",
+    "type": "Compact",
+    "resolution": "3648 x 2736",
+    "effectivePixels": "10 megapixels",
+    "sensorType": "CCD",
+    "processor": "Expeed C2",
+    "iso": "Auto (80 - 3200)",
+    "imageStabilization": "Optical",
+    "jpegQualityLevels": "High, Normal",
+    "uncompressedFormat": "No",
+    "manualFocus": "Yes",
+    "lensMount": "No",
+    "articulatedLCD": "Fixed",
+    "liveView": "Yes",
+    "minimumShutterSpeed": "8 sec",
+    "maximumShutterSpeed": "1/2000 sec",
+    "aperturePriority": "No",
+    "shutterPriority": "No",
+    "builtInFlash": "Yes",
+    "hdmi": "No",
+    "battery": "4 x AA (Alkaline, NiMH, Oxyride or Lithium)"
+}

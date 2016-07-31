@@ -1,0 +1,30 @@
+{
+    "description": "One of the smallest Nikon digital SLRs ever, the D60 makes it fun and easy to take breathtaking pictures while also offering plenty of features for those who want to deepen their interest in creative shooting. With a split-second shutter response, the D60 captures pictures that cameras with longer time lags miss. Ease of use and creative options both come standard with the D60, whose exclusive Nikon technologies help deliver high-quality pictures with vibrant color and stunning, edge-to-edge detail. Such superior results are achieved through a high-resolution image sensor utilizing 10.2 megapixels, world-famous NIKKOR lenses delivering razor-sharp pictures, and many cutting-edge Nikon features to further enhance your picture-taking experience.",
+    "images": [
+        "images/products/Nikon-D60.0.png",
+        "images/products/Nikon-D60.1.png",
+        "images/products/Nikon-D60.2.png"
+    ],
+    "id": "Nikon-D60",
+    "name": "Nikon D60",
+    "type": "Compact SLR",
+    "resolution": "3872 x 2592",
+    "effectivePixels": "10 megapixels",
+    "sensorType": "CCD",
+    "processor": "Digic 4",
+    "iso": "Auto, 100, 200, 400, 800, 1600, (3200 with boost)",
+    "imageStabilization": "No",
+    "jpegQualityLevels": "Fine, Normal",
+    "uncompressedFormat": "RAW",
+    "manualFocus": "Yes",
+    "lensMount": "Canon EF/EF-S",
+    "articulatedLCD": "Fully articulated",
+    "liveView": "Yes",
+    "minimumShutterSpeed": "30 sec",
+    "maximumShutterSpeed": "1/8000 sec",
+    "aperturePriority": "Yes",
+    "shutterPriority": "Yes",
+    "builtInFlash": "Yes (Pop-up)",
+    "hdmi": "Yes (HDMI mini)",
+    "battery": "Lithium-Ion LP-E6 rechargeable battery & charger"
+}

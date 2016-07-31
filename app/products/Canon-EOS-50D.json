@@ -1,0 +1,32 @@
+{
+
+    "description": "A 15.1 megapixel Canon-developed CMOS sensor and DiG!C 4 Image Processor combine to deliver superb image quality with low noise and natural colour reproduction. Key new features include Creative Auto mode and Quick Control screen for improved operation, and Auto Lighting Optimiser for automatic image correction. The EOS 50D is the clear choice for the Digital SLR photography enthusiast.",
+    "images": [
+        "images/products/Canon-EOS-50D.0.jpg",
+        "images/products/Canon-EOS-50D.1.jpg",
+        "images/products/Canon-EOS-50D.2.jpg",
+        "images/products/Canon-EOS-50D.3.jpg"
+    ],
+    "id": "Canon-EOS-50D",
+    "name": "Canon EOS 50D",
+    "type": "Mid-size SLR",
+    "resolution": "4752 x 3168",
+    "effectivePixels": "15 megapixels",
+    "sensorType": "CMOS",
+    "processor": "Digic 4",
+    "iso": "Auto, 100, 200, 400, 800, 1600, 3200 (H),6400(H1),12800(H2)",
+    "imageStabilization": "No",
+    "jpegQualityLevels": "Fine, Normal",
+    "uncompressedFormat": "RAW",
+    "manualFocus": "Yes",
+    "lensMount": "Canon EF/EF-S",
+    "articulatedLCD": "Fixed",
+    "liveView": "Yes",
+    "minimumShutterSpeed": "30 sec",
+    "maximumShutterSpeed": "1/8000 sec",
+    "aperturePriority": "Yes",
+    "shutterPriority": "Yes",
+    "builtInFlash": "Yes (Pop-up)",
+    "hdmi": "Yes (HDMI mini)",
+    "battery": "Lithium-Ion BP-511A rechargeable battery & charger"
+}

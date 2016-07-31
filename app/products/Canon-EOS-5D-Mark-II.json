@@ -1,0 +1,31 @@
+{
+
+    "description": "Redefining the world of professional photography, the EOS 5D Mark II lets you capture a quality of image you never thought possible. Its 22.3MP Full Frame CMOS sensor and DiG!C 5+ image processor allows you to capture images in incredible detail, and with its 61-point Auto Focus system, you can find your focus in each and every shot. The camera’s 100% viewfinder coverage lets you evaluate each image before you release the shutter, and with six frames per second you can catch every instant of the action.",
+    "images": [
+        "images/products/Canon-EOS-5D-Mark-II.0.jpg",
+        "images/products/Canon-EOS-5D-Mark-II.1.jpg",
+        "images/products/Canon-EOS-5D-Mark-II.2.jpg"
+    ],
+    "id": "Canon-EOS-5D-Mark-II",
+    "name": "Canon EOS 5D Mark II",
+    "type": "Mid-size SLR",
+    "resolution": "5616 x 3744",
+    "effectivePixels": "21 megapixels",
+    "sensorType": "CMOS",
+    "processor": "Digic 4",
+    "iso": "Auto, 100 - 6400 in 1/3 stops, plus 50, 12800, 25600 as option",
+    "imageStabilization": "No",
+    "jpegQualityLevels": "Fine, Normal",
+    "uncompressedFormat": "RAW",
+    "manualFocus": "Yes",
+    "lensMount": "Canon EF",
+    "articulatedLCD": "Fixed",
+    "liveView": "Yes",
+    "minimumShutterSpeed": "30 sec",
+    "maximumShutterSpeed": "1/8000 sec",
+    "aperturePriority": "Yes",
+    "shutterPriority": "Yes",
+    "builtInFlash": "No",
+    "hdmi": "Yes (HDMI mini)",
+    "battery": "Lithium-Ion LP-E6 rechargeable battery & charger"
+}

@@ -1,0 +1,113 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xs-12 col-sm-8 col-sm-push-4">
+            <a href="#Top"></a>
+            <h1>{{$ctrl.product.name}}</h1>
+
+            <p class="lead">{{$ctrl.product.description}}</p>
+
+            <ul class="product-thumbs">
+                <li ng-repeat="img in $ctrl.product.images">
+                    <img ng-src="{{img}}" ng-click="$ctrl.setImage(img)" class="img-thumbnail" />
+                </li>
+            </ul>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-sm-pull-8">
+            <div class="product-images">
+                <img ng-src="{{img}}" class="product img-responsive" ng-class="{selected: img === $ctrl.mainImageUrl}" ng-repeat="img in $ctrl.product.images" />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            <h3>Features</h3>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <tr>
+                        <td>Type</td>
+                        <td>{{$ctrl.product.type}}</td>
+                    </tr>
+                    <tr>
+                        <td>Resolution</td>
+                        <td>{{$ctrl.product.resolution}}</td>
+                    </tr>
+                    <tr>
+                        <td>Effective pixels</td>
+                        <td>{{$ctrl.product.effectivePixels}}</td>
+                    </tr>
+                    <tr>
+                        <td>Sensor type</td>
+                        <td>{{$ctrl.product.sensorType}}</td>
+                    </tr>
+                    <tr>
+                        <td>Processor</td>
+                        <td>{{$ctrl.product.processor}}</td>
+                    </tr>
+                    <tr>
+                        <td>ISO</td>
+                        <td>{{$ctrl.product.iso}}</td>
+                    </tr>
+                    <tr>
+                        <td>Image stabilization</td>
+                        <td>{{$ctrl.product.imageStabilization}}</td>
+                    </tr>
+                    <tr>
+                        <td>JPEG quality levels</td>
+                        <td>{{$ctrl.product.jpegQualityLevels}}</td>
+                    </tr>
+                    <tr>
+                        <td>Uncompressed format</td>
+                        <td>{{$ctrl.product.uncompressedFormat}}</td>
+                    </tr>
+                    <tr>
+                        <td>Manual focus</td>
+                        <td>{{$ctrl.product.manualFocus}}</td>
+                    </tr>
+                    <tr>
+                        <td>Lens mount</td>
+                        <td>{{$ctrl.product.lensMount}}</td>
+                    </tr>
+                    <tr>
+                        <td>Articulated LCD</td>
+                        <td>{{$ctrl.product.articulatedLCD}}</td>
+                    </tr>
+                    <tr>
+                        <td>Live view</td>
+                        <td>{{$ctrl.product.liveView}}</td>
+                    </tr>
+                    <tr>
+                        <td>Minimum shutter speed</td>
+                        <td>{{$ctrl.product.minimumShutterSpeed}}</td>
+                    </tr>
+                    <tr>
+                        <td>Maximum shutter speed</td>
+                        <td>{{$ctrl.product.maximumShutterSpeed}}</td>
+                    </tr>
+                    <tr>
+                        <td>Aperture priority</td>
+                        <td>{{$ctrl.product.aperturePriority}}</td>
+                    </tr>
+                    <tr>
+                        <td>Shutter priority</td>
+                        <td>{{$ctrl.product.shutterPriority}}</td>
+                    </tr>
+                    <tr>
+                        <td>Built-in flash</td>
+                        <td>{{$ctrl.product.builtInFlash}}</td>
+                    </tr>
+                    <tr>
+                        <td>HDMI</td>
+                        <td>{{$ctrl.product.hdmi}}</td>
+                    </tr>
+                    <tr>
+                        <td>Battery</td>
+                        <td>{{$ctrl.product.battery}}</td>
+                    </tr>
+                </table>
+            </div>
+            <div>
+              <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>Back to Product list</a></p>
+            </div>
+        </div>
+    </div>
+</div>

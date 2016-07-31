@@ -1,0 +1,58 @@
+
+[
+  {
+      "model": 0,
+      "id": "Canon-EOS-5D-Mark-II",
+      "imageUrl": "images/products/Canon-EOS-5D-Mark-II.0.jpg",
+      "name": "Canon EOS 5D Mark II",
+      "type": "Mid-size SLR",
+      "brand":"Canon",
+      "snippet": "Redefining the world of professional photography, the EOS 5D Mark II lets you capture a quality of image you never thought possible. Its 22.3MP Full Frame CMOS sensor and DiG!C 5+ image processor allows you to capture images in incredible detail, and with its 61-point Auto Focus system, you can find your focus in each and every shot."
+},
+{
+    "model": 2,
+    "id": "Canon-EOS-50D",
+    "imageUrl": "images/products/Canon-EOS-50D.0.jpg",
+    "name": "Canon EOS 50D",
+    "type": "Mid-size SLR",
+    "brand":"Canon",
+    "snippet": "A 15.1 megapixel Canon-developed CMOS sensor and DiG!C 4 Image Processor combine to deliver superb image quality with low noise and natural colour reproduction. Key new features include Creative Auto mode and Quick Control screen for improved operation, and Auto Lighting Optimiser for automatic image correction. The EOS 50D is the clear choice for the Digital SLR photography enthusiast."
+},
+{
+    "model": 3,
+    "id": "Canon-EOS-60D",
+    "imageUrl": "images/products/Canon-EOS-60D.0.jpg",
+    "name": "Canon EOS 60D",
+    "type": "Mid-size SLR",
+    "brand":"Canon",
+    "snippet": "With the EOS 60D, you can discover your potential and take your photography further. Helping you to capture every image the way you imagine it, this Digital SLR Camera uses a 18MP APS-C CMOS sensor and DiG!C 4 imaging processor to create low noise images with beautiful resolution, even in low light."
+},
+{
+    "model": 4,
+    "id": "Canon-PowerShot-A20",
+    "imageUrl": "images/products/Canon-PowerShot-A20.0.jpg",
+    "name": "Canon PowerShot A20",
+    "type": "Compact",
+    "brand":"Canon",
+    "snippet": "At PMA 2001 this year Canon announced two new PowerShot cameras aimed at the entry level market, the A10 and A20, based on the same body, system, 3x zoom lens and body design, they differ only in their resolution (and price), the A10 has a 1.3 megapixel sensor and a retail price of US$400, the A20 has a 2.1 megapixel sensor"
+},
+{
+    "model": 5,
+    "id": "Nikon-Coolpix-L100",
+    "imageUrl": "images/products/Nikon-Coolpix-L100.0.jpg",
+    "name": "Nikon Coolpix L100",
+    "type": "Compact",
+    "brand":"Nikon",
+    "snippet": "The COOLPIX L100 features the compositional freedom of a 15x Zoom-NIKKOR lens. Covering 28mm wide-angle to 420mm super-telephoto shooting, the lens’ broad focal range can readily handle everything from landscapes and group shots, to tight close-ups and shots taken from a distance that allows shooting subjects as they move or play naturally. The COOLPIX L100 teams its extended reach with solid imaging power. 10.0 effective megapixels of sharp resolution is teamed with an optimized processing system to faithfully reproduce fine details and subtle tones and deliver quick response. Furthermore, with new Sport Continuous Mode, as many as 30 consecutive pictures can be taken at the rapid speed of 13 fps*2."
+},
+{
+    "model": 6,
+    "id": "Nikon-D60",
+    "imageUrl": "images/products/Nikon-D60.0.png",
+    "name": "Nikon D60",
+    "type": "Compact SLR",
+    "brand":"Nikon",
+    "snippet": "One of the smallest Nikon digital SLRs ever, the D60 makes it fun and easy to take breathtaking pictures while also offering plenty of features for those who want to deepen their interest in creative shooting. With a split-second shutter response, the D60 captures pictures that cameras with longer time lags miss. Ease of use and creative options both come standard with the D60, whose exclusive Nikon technologies help deliver high-quality pictures with vibrant color and stunning, edge-to-edge detail. Such superior results are achieved through a high-resolution image sensor utilizing 10.2 megapixels, world-famous NIKKOR lenses delivering razor-sharp pictures, and many cutting-edge Nikon features to further enhance your picture-taking experience."
+}
+
+]

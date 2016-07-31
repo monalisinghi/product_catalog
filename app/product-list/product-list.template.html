@@ -1,0 +1,39 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xs-12 col-sm-3">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Quick action</h3>
+                </div>
+                <div class="panel-body">
+                    <div class="form-group">
+                        <label for="filter">Search product</label>
+                        <input type="text" class="form-control" id="filter" placeholder="Product name" ng-model="$ctrl.query">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="sortBy">Sort by:</label>
+                        <select ng-model="$ctrl.orderProp" class="form-control" id="sortBy">
+                          <option value="type">Type</option>
+                          <option value="brand">Brand</option>
+                            <option value="name">Aphlabatical</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-9">
+            <ul class="products">
+                <li ng-repeat="product in $ctrl.products | filter:$ctrl.query | orderBy:$ctrl.orderProp" class="thumbnail product-list-item">
+                    <a href="#!/product/{{product.id}}" class="thumb">
+                        <img ng-src="{{product.imageUrl}}" alt="{{product.name}}" class="img-thumbnail" />
+                    </a>
+                    <h4><a href="#!/product/{{product.id}}">{{product.name}}</a></h4>
+                    <p><strong>Type: {{product.type}}</strong></p>
+                    <p>{{product.snippet}}</p>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+</div>

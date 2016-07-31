@@ -1,0 +1,31 @@
+{
+
+    "description": "With the EOS 60D, you can discover your potential and take your photography further. Helping you to capture every image the way you imagine it, this Digital SLR Camera uses a 18MP APS-C CMOS sensor and DiG!C 4 imaging processor to create low noise images with beautiful resolution, even in low light. Even if you are shooting from an awkward angle, you can position the camera’s 3.0” vari-angle LCD monitor to make sure you get the shot just right. And with a camera that shoots up to 5.3 frames per second, you will never miss a shot either! The EOS 60D also features 9-point Auto Focus and LiveView with face detection, so you can find the perfect focus when taking both stills and movie.",
+    "images": [
+        "images/products/Canon-EOS-60D.0.jpg",
+        "images/products/Canon-EOS-60D.1.jpg",
+        "images/products/Canon-EOS-60D.2.jpg"
+    ],
+    "id": "Canon-EOS-60D",
+    "name": "Canon EOS 60D",
+    "type": "Mid-size SLR",
+    "resolution": "5184 x 3456",
+    "effectivePixels": "18 megapixels",
+    "sensorType": "CMOS",
+    "processor": "Digic 4",
+    "iso": "Auto, 100, 200, 400, 800, 1600, 3200, 6400, (12800 with boost)",
+    "imageStabilization": "No",
+    "jpegQualityLevels": "Fine, Normal",
+    "uncompressedFormat": "RAW",
+    "manualFocus": "Yes",
+    "lensMount": "Canon EF/EF-S",
+    "articulatedLCD": "Fully articulated",
+    "liveView": "Yes",
+    "minimumShutterSpeed": "30 sec",
+    "maximumShutterSpeed": "1/8000 sec",
+    "aperturePriority": "Yes",
+    "shutterPriority": "Yes",
+    "builtInFlash": "Yes (Pop-up)",
+    "hdmi": "Yes (HDMI mini)",
+    "battery": "Lithium-Ion LP-E6 rechargeable battery & charger"
+}
